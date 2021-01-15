@@ -1,0 +1,39 @@
+Manifest-Version: 1.0
+Implementation-Title: dddz
+Implementation-Version: 1.1
+Permissions: sandbox
+JavaFX-Version: 8.0
+Class-Path: mvn/HikariCP-3.2.0.jar mvn/SparseBitSet-1.2.jar mvn/antlr-
+ 2.7.7.jar mvn/aspectjweaver-1.9.2.jar mvn/byte-buddy-1.9.3.jar mvn/cl
+ assmate-1.4.0.jar mvn/commons-beanutils-1.9.3.jar mvn/commons-codec-1
+ .11.jar mvn/commons-collections-3.2.2.jar mvn/commons-collections4-4.
+ 4.jar mvn/commons-io-2.6.jar mvn/commons-lang-2.6.jar mvn/commons-log
+ ging-1.2.jar mvn/commons-math3-3.6.1.jar mvn/commons-net-3.1.jar mvn/
+ controlsfx-8.40.15.jar mvn/dom4j-2.1.1.jar mvn/fastjson-1.2.51.jar mv
+ n/hibernate-commons-annotations-5.0.4.Final.jar mvn/hibernate-core-5.
+ 3.7.Final.jar mvn/httpclient-4.5.6.jar mvn/httpcore-4.4.10.jar mvn/ht
+ tpmime-4.5.6.jar mvn/hutool-core-5.5.4.jar mvn/jandex-2.0.5.Final.jar
+  mvn/javassist-3.23.1-GA.jar mvn/javax.activation-api-1.2.0.jar mvn/j
+ avax.annotation-api-1.3.2.jar mvn/javax.persistence-api-2.2.jar mvn/j
+ avax.transaction-api-1.3.jar mvn/jaxb-api-2.3.1.jar mvn/jboss-logging
+ -3.3.2.Final.jar mvn/jna.jar mvn/joda-time-2.10.1.jar mvn/jul-to-slf4
+ j-1.7.25.jar mvn/log4j-api-2.11.1.jar mvn/log4j-to-slf4j-2.11.1.jar m
+ vn/logback-classic-1.2.3.jar mvn/logback-core-1.2.3.jar mvn/lombok-1.
+ 18.2.jar mvn/mysql-connector-java-8.0.11.jar mvn/poi-4.1.2.jar mvn/sl
+ f4j-api-1.7.25.jar mvn/snakeyaml-1.23.jar mvn/spring-aop-5.1.2.RELEAS
+ E.jar mvn/spring-aspects-5.1.2.RELEASE.jar mvn/spring-beans-5.1.2.REL
+ EASE.jar mvn/spring-boot-2.1.0.RELEASE.jar mvn/spring-boot-autoconfig
+ ure-2.1.0.RELEASE.jar mvn/spring-boot-configuration-processor-2.1.0.R
+ ELEASE.jar mvn/spring-boot-starter-2.1.0.RELEASE.jar mvn/spring-boot-
+ starter-aop-2.1.0.RELEASE.jar mvn/spring-boot-starter-data-jpa-2.1.0.
+ RELEASE.jar mvn/spring-boot-starter-jdbc-2.1.0.RELEASE.jar mvn/spring
+ -boot-starter-logging-2.1.0.RELEASE.jar mvn/spring-context-5.1.2.RELE
+ ASE.jar mvn/spring-core-5.1.2.RELEASE.jar mvn/spring-data-commons-2.1
+ .2.RELEASE.jar mvn/spring-data-jpa-2.1.2.RELEASE.jar mvn/spring-expre
+ ssion-5.1.2.RELEASE.jar mvn/spring-jcl-5.1.2.RELEASE.jar mvn/spring-j
+ dbc-5.1.2.RELEASE.jar mvn/spring-orm-5.1.2.RELEASE.jar mvn/spring-tx-
+ 5.1.2.RELEASE.jar mvn/springboot-javafx-support-2.1.6.jar
+Created-By: JavaFX Packager
+Implementation-Vendor: 
+Main-Class: com.dddz.vehicle.sync.VehicleSyncApplication
+
